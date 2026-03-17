@@ -2,17 +2,19 @@
 
 <br>
 
-<h2 style="font-size: 28px; font-weight: bold;">About me</h2>
+<h2 style="font-size: 28px; font-weight: bold;">✨ About me</h2>
 
 <p style="font-size: 18px; font-weight: bold;">I'm Tide, studying Software Engineering in Harbin. I love engineering-oriented computer technologies and enjoy exploring efficient, maintainable solutions.</p>
 
-[![CSDN](https://img.shields.io/badge/CSDN-TechBlog-fc5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/your-id)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Daily_Challenge-FFA116?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.cn/your-id)
-[![Football](https://img.shields.io/badge/Hobby-Football-008000?style=for-the-badge&logo=soccer&logoColor=white)](#)
-![Ming Dynasty](https://img.shields.io/badge/Research-明_Dynasty-8B0000?style=for-the-badge&logo=read-dot-cv&logoColor=white)
+<div align="center">
+[![CSDN](https://img.shields.io/badge/CSDN-TechBlog-fc5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/your-id)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Daily_Challenge-FFA116?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.cn/Tidenflow)
+[![Football](https://img.shields.io/badge/Hobby-Football-008000?style=flat-square&logo=soccer&logoColor=white)](#)
+![Ming Dynasty](https://img.shields.io/badge/Research-明_Dynasty-8B0000?style=flat-square&logo=read-dot-cv&logoColor=white)
+</div>
 <br>
 
-<h2 style="font-size: 28px; font-weight: bold;">Tech</h2>
+<h2 style="font-size: 28px; font-weight: bold;">💻 Tech</h2>
 
 <p style="font-size: 18px; font-weight: bold;">1. Web Development - Vue, NodeJS Express, JavaScript, TypeScript<br>2. C++ Qt Development - Industrial Software & Desktop Tools<br>3. AI Tools & Vibe Coding Developer</p>
 
