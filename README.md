@@ -18,11 +18,29 @@
   💡 Dedicated to exploring <b>efficient, maintainable</b> software solutions.
 </p>
 
+
+<div align="center">
+ <a href="#"><img src="https://img.shields.io/badge/Region-🇨🇳_China-DE2110?style=for-the-badge" /></a>
+</div>
+
+<br>
+
 <div align="center">
   <a href="https://blog.csdn.net/Tidenflow"><img src="https://img.shields.io/badge/CSDN-TechBlog-fc5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.cn/u/Tidenflow/"><img src="https://img.shields.io/badge/LeetCode-Challenge-FFA116?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
+  &nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Hobby-Football-008000?style=for-the-badge&logo=soccer&logoColor=white" /></a>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Research-明_Dynasty-8B0000?style=for-the-badge&logo=gitbook&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/G.O.A.T-Messi_10-74ACDF?style=for-the-badge&logo=soccer&logoColor=white" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/G.O.A.T-Ronaldo_7-DE2110?style=for-the-badge&logo=soccer&logoColor=white" />
 </div>
 
 <br>
