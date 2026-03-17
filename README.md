@@ -1,16 +1,16 @@
-<h1 align="center">Hey 👋 I'm Tide</h1>
+<h1 align="center"><span style="font-size: 2em; font-weight: bold;">Hey 👋 I'm Tide</span></h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"><span style="font-size: 1.5em; font-weight: bold;">About me</span></h2>
 
-<p align="left">I'm Tide, studying Software Engineering in Harbin. I love engineering-oriented computer technologies and enjoy exploring efficient, maintainable solutions.</p>
+<p align="left"><span style="font-size: 1.1em; font-weight: bold;">I'm Tide, studying Software Engineering in Harbin. I love engineering-oriented computer technologies and enjoy exploring efficient, maintainable solutions.</span></p>
 
 ###
 
-<h3 align="left">Tech</h3>
+<h3 align="left"><span style="font-size: 1.3em; font-weight: bold;">Tech</span></h3>
 
-<p align="left">1. Web Development - Vue, NodeJS Express, JavaScript, TypeScript<br>2. C++ Qt Development - Industrial Software & Desktop Tools<br>3. AI Tools & Vibe Coding Developer</p>
+<p align="left"><span style="font-size: 1.1em; font-weight: bold;">1. Web Development - Vue, NodeJS Express, JavaScript, TypeScript<br>2. C++ Qt Development - Industrial Software & Desktop Tools<br>3. AI Tools & Vibe Coding Developer</span></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
