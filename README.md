@@ -1,12 +1,16 @@
 <h1 align="center" style="font-size: 48px; font-weight: bold;">Hey 👋 I'm Tide</h1>
 
-<hr>
+<br>
 
 <h2 style="font-size: 28px; font-weight: bold;">About me</h2>
 
 <p style="font-size: 18px; font-weight: bold;">I'm Tide, studying Software Engineering in Harbin. I love engineering-oriented computer technologies and enjoy exploring efficient, maintainable solutions.</p>
 
-<hr>
+[![CSDN](https://img.shields.io/badge/CSDN-TechBlog-fc5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/your-id)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Daily_Challenge-FFA116?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.cn/your-id)
+[![Football](https://img.shields.io/badge/Hobby-Football-008000?style=for-the-badge&logo=soccer&logoColor=white)](#)
+![Ming Dynasty](https://img.shields.io/badge/Research-明_Dynasty-8B0000?style=for-the-badge&logo=read-dot-cv&logoColor=white)
+<br>
 
 <h2 style="font-size: 28px; font-weight: bold;">Tech</h2>
 
@@ -36,15 +40,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
 </div>
 
-<hr>
+<br>
 
 <img src="https://raw.githubusercontent.com/Tidenflow/Tidenflow/main/dist/snake.svg" alt="Snake animation" />
 
-<hr>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tidenflow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tidenflow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<hr>
+<br>
