@@ -7,8 +7,8 @@
 <p style="font-size: 18px; font-weight: bold;">I'm Tide, studying Software Engineering in Harbin. I love engineering-oriented computer technologies and enjoy exploring efficient, maintainable solutions.</p>
 
 <div align="center">
-  [![CSDN](https://img.shields.io/badge/CSDN-TechBlog-fc5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/your-id)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Daily_Challenge-FFA116?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.cn/u/your-id/)
+  [![CSDN](https://img.shields.io/badge/CSDN-TechBlog-fc5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/Tidenflow)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Daily_Challenge-FFA116?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.cn/u/Tidenflow/)
   [![Football](https://img.shields.io/badge/Hobby-Football-008000?style=flat-square&logo=soccer&logoColor=white)](#)
   ![Ming Dynasty](https://img.shields.io/badge/Research-明_Dynasty-8B0000?style=flat-square&logo=read-dot-cv&logoColor=white)
 </div>
