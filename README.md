@@ -88,14 +88,4 @@
 
 ---
 
-<h2 style="font-size: 32px; font-weight: 700; color: #6272a4;">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tidenflow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="85%" alt="stats graph" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tidenflow&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" width="85%" alt="languages graph" />
-</p> -->
-
-<br>
